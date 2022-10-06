@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "756822494187",
+    "project_id": "botcasts-b033e",
+    "storage_bucket": "botcasts-b033e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756822494187:android:13b8e5e94a65f354c927ae",
+        "android_client_info": {
+          "package_name": "com.ibotnoi.botcasts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756822494187-gt35ahjomchguo4kus7ba0qblffdrlkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41BgGWcTcM6NazrIKmZT8fKVifkUE9nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756822494187-gt35ahjomchguo4kus7ba0qblffdrlkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756822494187-tkngej6an3d92vtof7m5mkf234l9hbk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.botnoiflix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
